@@ -6,7 +6,7 @@ This repository documents my hackathon experiences, certificates, and achievemen
 
 🚀 My First Hackathon
 
-- Hackathon: ImpactX
+- Hackathon: ImpactX-26
 - Duration: 24 Hours
 - Date: 8–9 October 2026
 - Participation: Participated in my first hackathon as a first-semester student.
